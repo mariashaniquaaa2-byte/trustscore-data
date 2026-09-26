@@ -1,0 +1,16 @@
+# stellar.toml for Trust Score Marketplace Token (TRS)
+
+[DOCUMENTATION]
+ORG_NAME = "Trust Score Marketplace"
+ORG_URL = "https://trustscore-marketplace.lovable.app"
+ORG_DESCRIPTION = "TrustScore Marketplace - Decentralized trust layer for Pi Browser. Earn TRS, review peers, AI detects fraud. Verify before transacting."
+ORG_OFFICIAL_EMAIL = "raskovitch87@gmail.com"
+
+[[CURRENCIES]]
+code = "TRS"
+issuer = "GB4ERUXWW6ZT5QAP7KOUMW6DOA5AKRR5QLFCX5XSLL2I7DCZPVAMLPUA"
+display_decimals = 7
+name = "Trust Score Marketplace Token"
+desc = "Utility token for the Trust Score Marketplace, used for rewards and governance."
+is_asset_anchored = false
+anchor_asset_type = "none"
